@@ -12,7 +12,7 @@ Apprendre les bases de la **data science en Python**, notamment à travers l’u
 
 ## 🛠️ Outils utilisés
 
-- Python 3.10+
+- Python 3.11+
 - Google Colab (recommandé pour une exécution rapide)
 - Jupyter Notebooks
 - Visual Studio Code (facultatif)
@@ -49,9 +49,7 @@ jupyter notebook
 
 - [x] Bases de NumPy
 - [x] Manipulation de données avec Pandas
-- [ ] Visualisation de données
-- [ ] Statistiques descriptives
-- [ ] Analyse exploratoire
+- [x] Visualisation de données avec Matplotlib et Seaborn
 
 ## 📌 Remarques
 
