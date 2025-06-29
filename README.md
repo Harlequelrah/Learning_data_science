@@ -45,6 +45,12 @@ jupyter notebook
 
 > 💡 Ou ouvre directement les fichiers `.ipynb` sur [Google Colab](https://colab.research.google.com/)
 
+## Structure
+
+- Partie 1 : Manipulez_des_tableaux_avec_NumPy
+- Partie 2 : Créez_des_data_frames_avec_Pandas
+- Partie 3 : Construisez_des_data_visualisations_avec_Matplotlib_et_Seaborn
+
 ## ✍️ Progrès
 
 - [x] Bases de NumPy
