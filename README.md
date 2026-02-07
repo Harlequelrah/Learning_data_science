@@ -2,7 +2,7 @@
 
 Ce dépôt contient mes notes, exercices et expérimentations liés au cours [Découvrez les librairies Python pour la Data Science](https://openclassrooms.com/fr/courses/7771531-decouvrez-les-librairies-python-pour-la-data-science) proposé par OpenClassrooms.
 
-## 📚 Objectif
+##  Objectif
 
 Apprendre les bases de la **data science en Python**, notamment à travers l’utilisation des principales bibliothèques :
 
@@ -10,7 +10,7 @@ Apprendre les bases de la **data science en Python**, notamment à travers l’u
 - `Pandas` : manipulation de données tabulaires
 - `Matplotlib` et `Seaborn` : visualisation de données
 
-## 🛠️ Outils utilisés
+##  Outils utilisés
 
 - Python 3.11+
 - Google Colab (recommandé pour une exécution rapide)
@@ -18,7 +18,7 @@ Apprendre les bases de la **data science en Python**, notamment à travers l’u
 - Visual Studio Code (facultatif)
 
 
-## 🚀 Pour commencer
+##  Pour commencer
 
 Si tu veux lancer les notebooks localement :
 
@@ -43,7 +43,7 @@ pip install pandas numpy matplotlib seaborn jupyter
 jupyter notebook
 ```
 
-> 💡 Ou ouvre directement les fichiers `.ipynb` sur [Google Colab](https://colab.research.google.com/)
+>  Ou ouvre directement les fichiers `.ipynb` sur [Google Colab](https://colab.research.google.com/)
 
 ## Structure
 
@@ -51,19 +51,19 @@ jupyter notebook
 - Partie 2 : Créez_des_data_frames_avec_Pandas
 - Partie 3 : Construisez_des_data_visualisations_avec_Matplotlib_et_Seaborn
 
-## ✍️ Progrès
+##  Progrès
 
 - [x] Bases de NumPy
 - [x] Manipulation de données avec Pandas
 - [x] Visualisation de données avec Matplotlib et Seaborn
 
-## 📌 Remarques
+##  Remarques
 
 Ce dépôt est principalement personnel et évolutif. Il sert à :
 - documenter ma progression
 - garder une trace de mes expérimentations
 - poser les bases pour des projets plus avancés
 
-## 📖 Licence
+##  Licence
 
 Ce dépôt est partagé à des fins éducatives. Le contenu original du cours appartient à OpenClassrooms.
