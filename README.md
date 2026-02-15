@@ -12,10 +12,10 @@ Apprendre les bases de la **data science en Python**, notamment à travers l’u
 
 ## 🛠️ Outils utilisés
 
-- Python 3.11+
+- Python 3.13+
 - Google Colab (recommandé pour une exécution rapide)
 - Jupyter Notebooks
-- Visual Studio Code (facultatif)
+- Visual Studio Code (En Local)
 
 
 ## 🚀 Pour commencer
@@ -67,3 +67,9 @@ Ce dépôt est principalement personnel et évolutif. Il sert à :
 ## 📖 Licence
 
 Ce dépôt est partagé à des fins éducatives. Le contenu original du cours appartient à OpenClassrooms.
+
+## Liens et Contact
+Mon Github :  [Harlequelrah](https://github.com/Harlequelrah/)
+
+Contactez moi par email :
+[Email](mailto:maximeatsoudegbovi@gmail.com)
