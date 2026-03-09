@@ -1,75 +1,43 @@
-# Apprentissage de la Data Science avec Python
+# DataScience , Machine Learning et Deep Learning
 
-Ce dépôt contient mes notes, exercices et expérimentations liés au cours [Découvrez les librairies Python pour la Data Science](https://openclassrooms.com/fr/courses/7771531-decouvrez-les-librairies-python-pour-la-data-science) proposé par OpenClassrooms.
-
-##  Objectif
-
-Apprendre les bases de la **data science en Python**, notamment à travers l’utilisation des principales bibliothèques :
-
-- `NumPy` : calcul scientifique
-- `Pandas` : manipulation de données tabulaires
-- `Matplotlib` et `Seaborn` : visualisation de données
+Ce dossier  rassemble mon apprentissage de l'analyse de données  en master , autodicdate ou sur OpenClassrooms.
 
 ##  Outils utilisés
 
-- Python 3.13+
-- Google Colab (recommandé pour une exécution rapide)
+- Python 3.14+
+- Google Colab
 - Jupyter Notebooks
-- Visual Studio Code (En Local)
-
+- Visual Studio Code
 
 ##  Pour commencer
 
-Si tu veux lancer les notebooks localement :
+Pour lancer les notebooks localement :
 
 1. Clone le dépôt :
-```bash
-git clone https://github.com/Harlequelrah/Learning_data_science.git
-```
-
-2. Crée un environnement :
-```bash
-python -m venv env
-source env/bin/activate  # ou .\env\Scripts\activate sur Windows
-```
-
+   ```bash
+   git clone https://github.com/Harlequelrah/learning_data_science.git
+   ```
+2. Crée un environnement virtuel :
+   ```bash
+   python -m venv env
+   source env/bin/activate  # ou .\env\Scripts\activate sur Windows
+   ```
 3. Installe les dépendances :
-```bash
-pip install pandas numpy matplotlib seaborn jupyter
-```
+   ```bash
+   pip install pandas numpy matplotlib seaborn jupyter
+   ```
 
-4. Lance Jupyter :
-```bash
-jupyter notebook
-```
 
->  Ou ouvre directement les fichiers `.ipynb` sur [Google Colab](https://colab.research.google.com/)
-
-## Structure
-
-- Partie 1 : Manipulez_des_tableaux_avec_NumPy
-- Partie 2 : Créez_des_data_frames_avec_Pandas
-- Partie 3 : Construisez_des_data_visualisations_avec_Matplotlib_et_Seaborn
-
-##  Progrès
-
-- [x] Bases de NumPy
-- [x] Manipulation de données avec Pandas
-- [x] Visualisation de données avec Matplotlib et Seaborn
-
-##  Remarques
-
-Ce dépôt est principalement personnel et évolutif. Il sert à :
+Ce dépôt est personnel et évolutif. Il me permet de :
 - documenter ma progression
-- garder une trace de mes expérimentations
-- poser les bases pour des projets plus avancés
+- conserver mes expérimentations
+- préparer des projets plus avancés
 
-##  Licence
+## Licence
 
-Ce dépôt est partagé à des fins éducatives. Le contenu original du cours appartient à OpenClassrooms.
+Ce dépôt est partagé à des fins éducatives.
 
-## Liens et Contact
-Mon Github :  [Harlequelrah](https://github.com/Harlequelrah/)
 
-Contactez moi par email :
-[Email](mailto:maximeatsoudegbovi@gmail.com)
+## Contactez moi
+
+`mail` : maximeatsoudegbovi@gmail.com
