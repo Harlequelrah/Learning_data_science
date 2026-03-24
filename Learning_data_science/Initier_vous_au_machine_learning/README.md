@@ -33,11 +33,11 @@ Cette partie contient mes notes, exercices et expérimentations liés au cours [
 
 - [x] Partie 1
 
-- [x] Partie 2
+- [ ] Partie 2
 
-- [x] Partie 3
+- [ ] Partie 3
 
-- [x] Partie 4
+- [ ] Partie 4
 
 ##  Remarques
 
