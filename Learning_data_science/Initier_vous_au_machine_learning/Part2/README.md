@@ -5,5 +5,6 @@
 
 - [x] C2 - **Découvrez le principe de la régression linéaire**
 
-
 - [x] C3 - **Classifiez les données avec la régression logistique**
+
+- [x] C4 - **Partitionnez les données avec k-means**
