@@ -1,7 +1,7 @@
 # Partie 4 : `Optimisez les performances d’un modèle`
 
 
-- [ ] C1 - **Améliorez le modèle**
+- [x] C1 - **Améliorez le modèle**
 
 - [ ] C2 - **Augmentez la robustesse de vos modèles**
 
