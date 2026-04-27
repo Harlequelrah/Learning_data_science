@@ -35,7 +35,7 @@ Cette partie contient mes notes, exercices et expérimentations liés au cours [
 
 - [x] Partie 3
 
-- [ ] Partie 4
+- [x] Partie 4
 
 ## Remarques
 

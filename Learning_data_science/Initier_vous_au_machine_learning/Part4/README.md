@@ -5,5 +5,5 @@
 
 - [x] C2 - **Augmentez la robustesse de vos modèles**
 
-- [ ] C3 - **Découvrez l'apprentissage d'ensemble avec les forêts aléatoires**
+- [x] C3 - **Découvrez l'apprentissage d'ensemble avec les forêts aléatoires**
 
